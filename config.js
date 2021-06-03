@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: ' Cần db cc -.-',
     question:'Why ấn vô đây haha',
     btnReply: 'Gửi <3',
-    reply: ' Viết gì thì cũng chỉ ra Nhung thôi :)))',
+    reply: ' Viết gì cũng ra Nhung thôi :)))',
     mess: ' Bất ngờ thế :))',
     messDesc: ' Thực ra m có ấn vào đây t cũng k biết đâu hehe!!!.',
     btnAccept: ':)))',
