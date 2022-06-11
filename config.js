@@ -12,5 +12,5 @@ const CONFIG = {
     mess: ' Bất ngờ thế :))',
     messDesc: ' Thực ra m có ấn vào đây t cũng k biết đâu hehe!!!.',
     btnAccept: ':)))',
-    messLink: 'http://fb.com/ducks02'
+    messLink: 'http://fb.com/dwcks02'
 }
