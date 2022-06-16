@@ -8,9 +8,9 @@ const CONFIG = {
     btnNo: ' Cần db cc -.-',
     question:'Why ấn vô đây haha',
     btnReply: 'Gửi <3',
-    reply: ' Viết gì cũng ra Nhung thôi :)))',
+    reply: ' Viết gì vẫn ra tình yêu a dành cho Hương thôi :)))',
     mess: ' Bất ngờ thế :))',
-    messDesc: ' Thực ra m có ấn vào đây t cũng k biết đâu hehe!!!.',
+    messDesc: ' Thực ra e có ấn vào đây a cũng k biết đâu hehe!!!.',
     btnAccept: ':)))',
     messLink: 'http://fb.com/dwcks02'
 }
